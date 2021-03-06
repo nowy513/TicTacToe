@@ -2,7 +2,7 @@ package com.kodilla.TicTacToe;
 
 public class Controller extends Score {
 
-    static void AI() {
+    public static void controller() {
         if(fields[0].getState() + fields[1].getState() == -2 || fields[1].getState() + fields[2].getState() == -2 || fields[0].getState() + fields[2].getState() == -2) {
             if(fields[0].getState() == 0) {
                 fields[0].setState(-1);

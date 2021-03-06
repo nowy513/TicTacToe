@@ -181,7 +181,7 @@ public class TicTacToeApplication extends Application implements EventHandler<Ac
                 if(singlePlayer) {
                     fields[i].setState(1);
                     remis++;
-                    Controller.AI();
+                    Controller.controller();
                 } else if(playerTurn){
                     fields[i].setState(0);
                     remis++;
