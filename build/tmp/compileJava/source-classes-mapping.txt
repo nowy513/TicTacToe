@@ -2,3 +2,7 @@ com/kodilla/TicTacToe/Fields.java
  com.kodilla.TicTacToe.Fields
 com/kodilla/TicTacToe/TicTacToeApplication.java
  com.kodilla.TicTacToe.TicTacToeApplication
+com/kodilla/TicTacToe/Score.java
+ com.kodilla.TicTacToe.Score
+com/kodilla/TicTacToe/Controller.java
+ com.kodilla.TicTacToe.Controller
