@@ -198,12 +198,6 @@ public class TicTacToeApplication extends Application implements EventHandler<Ac
             }
         }
     }
-
-
-
-
-
-
 }
 
 

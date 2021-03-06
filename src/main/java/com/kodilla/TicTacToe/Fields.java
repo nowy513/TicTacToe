@@ -33,11 +33,8 @@ public class Fields extends Button {
             }
         }
 
-
-
     public int getState(){
         return state;
     }
-
 
 }
