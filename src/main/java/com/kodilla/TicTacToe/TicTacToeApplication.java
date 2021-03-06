@@ -33,8 +33,6 @@ public class TicTacToeApplication extends Application implements EventHandler<Ac
     static Label score = new Label(score1 + " - " + score2);
     static int remis = 0;
     private boolean singlePlayer = true;
-    static String p1 = "Player";
-    static String p2 = "Computer";
     private boolean playerTurn = true;
 
 

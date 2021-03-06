@@ -2,6 +2,9 @@ package com.kodilla.TicTacToe;
 
 public class Score extends TicTacToeApplication{
 
+    static String p1 = "Player";
+    static String p2 = "Computer";
+
     static void checkScore() {
 
         if(fields[0].getState() + fields[1].getState() + fields[2].getState() == 3) {
